@@ -1,0 +1,80 @@
+html {
+    max-width: 100vw;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffd700;
+    padding: 2px 5px;
+    width: 90vw;
+    max-width: 60rem;
+    margin: 0 auto; /* Align the body to the center */
+
+    
+}
+header {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    color: #FF1E1E;
+
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin: 7px 0; 
+    word-wrap: break-word;
+    
+    font-family: "Sedan SC", serif;
+    font-weight: 800;
+    font-style: normal;      
+}
+
+h3 {
+    font-size: 0.9rem;
+    margin: 0; 
+    word-wrap: break-word;
+
+  font-family: "Ubuntu Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+p {
+    font-size: 1rem;
+    margin: 0 auto;
+    word-wrap: break-word;
+}
+
+.small-text {
+    font-size: 0.8rem;
+    color: #666666;
+    word-wrap: break-word;
+    max-width: 90%;
+
+    font-family: "Ubuntu Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+    margin-bottom: 20px;
+}
